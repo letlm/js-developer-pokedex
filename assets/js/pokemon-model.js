@@ -6,3 +6,17 @@ class Pokemon {
     types = [];
     photo;
 }
+
+class PokemonDetail {
+    number;
+    name;
+    type;
+    experience;
+    types = [];
+    photo;
+    height;
+    weight;
+    abilities = [];
+    moves = [];
+
+}
